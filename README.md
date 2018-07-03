@@ -8,25 +8,38 @@ How do I love thee? Let me count the ways.
 
 Auto Completion of Commands and Options
 
+<img src="./images/1.png" width="550">
+
+
 ## 2) You know what I'm about to say before I say it  
 
 Shorthand Auto Completion
+
+<img src="./images/2.png" width="550">
 
 ## 3) You make me all warm and fuzzy  
 
 Fuzzy Search
 
+<img src="./images/3.png" width="550">
+
 ## 4)  When we first met, I knew I could read you like a book  
 
 Inline Documentation
+
+<img src="./images/4.png" width="550">
 
 ## 5) You're a good listener and remember what I say without having to repeat myself
 
 Command History
 
+<img src="./images/5.png" width="550">
+
 ## 6) You're always thinking ahead
 
 Fish-Style Auto Suggestion. Use the right arrow key to complete a suggestion.
+
+<img src="./images/6.png" width="550">
 
 ## 7)  I can go on and on...
 
