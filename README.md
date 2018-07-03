@@ -50,13 +50,18 @@ From the aws> prompt, start typing your AWS CLI command ** without ** the "aws" 
 
 === Example 1: The Basics ===
 
-Instead of "aws ec2 describe-instances", simply type "ec2 describe-instances"
+Instead of "aws ec2 describe-instances", simply type 
+
+```
+"ec2 describe-instances"
+```
 
 === Example 2: Auto completion ===
 
 From the aws> prompt type,
-
+```
 ec2 termi<tab key> <space> --inst<tab key> <space>  
+```
 
 If typed correctly, the above will produce the artifact "aws ec2 terminate-instances --instance-ids" followed by a complete list of running ec2 instances that you can perform auto-completion against. 
 
