@@ -43,7 +43,7 @@ Fish-Style Auto Suggestion. Use the right arrow key to complete a suggestion.
 
 ## 7)  I can go on and on...
   
-      [foo](https://github.com/awslabs/aws-shell)
+       https://github.com/awslabs/aws-shell
 <hr>
 
 # I'm digging this! How do I get started?
