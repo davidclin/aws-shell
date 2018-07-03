@@ -41,11 +41,13 @@ David L.
 
 ## In Linux, create a virtual environment and install aws-shell.
 
+<pre>
 $ virtualenv aws-shell
 $ source aws-shell/bin/activate
 $ cd aws-shell
 $ pip install aws-shell
 $ aws-shell
+</pre>
 
 ## Usage
 
