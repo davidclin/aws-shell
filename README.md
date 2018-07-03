@@ -42,9 +42,8 @@ Fish-Style Auto Suggestion. Use the right arrow key to complete a suggestion.
 <img src="./images/6.png" width="550">
 
 ## 7)  I can go on and on...
-
-    https://github.com/awslabs/aws-shell
-
+  
+      [foo](https://github.com/awslabs/aws-shell)
 <hr>
 
 # I'm digging this! How do I get started?
