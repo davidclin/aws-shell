@@ -32,14 +32,9 @@ Fish-Style Auto Suggestion. Use the right arrow key to complete a suggestion.
 
     https://github.com/awslabs/aws-shell
 
-Sincerely impressed,
-David L.
-
+<hr>
 
 # I'm digging this! How do I get started?
-
-
-## In Linux, create a virtual environment and install aws-shell.
 
 <pre>
 $ virtualenv aws-shell
@@ -70,7 +65,7 @@ Every time you hit the tab key, aws-shell will auto-complete what it knows about
 ## Disclaimer
 I've noticed the ssh terminal becoming unresponsive when the aws-shell is left open too long using Putty in Windows 10 with an ssh connection going over VPN.  Your mileage and chances of encountering this may vary (or not even be an issue based on your OS, personal settings, and connection type).  But in the event you do encounter the terminal becoming unresponsive after some time, you should be able to reconnect to your instance using a new ssh connection. 
 
-To exit the shell,  use Ctrl-D. 
-Type "deactivate" to exit the virtual environment.
+To exit the shell,  use **Ctrl-D**. 
+Type "**deactivate**" to exit the virtual environment.
 
 You can use the traditional AWS-CLI commands again from this point on if you're not impressed or find little value with aws-shell's enhancements. I didn't say it would solve world hunger. :)
