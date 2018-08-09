@@ -56,6 +56,8 @@ $ pip install aws-shell
 $ aws-shell
 </pre>
 
+virtualenv installation instructions can be found [here](https://docs.python-guide.org/dev/virtualenvs/)
+
 ## Usage
 
 From the aws> prompt, start typing your AWS CLI command ** without ** the "aws" that typically precedes the command.
