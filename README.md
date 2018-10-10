@@ -54,6 +54,7 @@ $ source aws-shell/bin/activate
 $ cd aws-shell
 $ pip install aws-shell
 $ aws-shell
+$ pip install aws-shell --upgrade  (optional)
 </pre>
 
 virtualenv installation instructions can be found [here](https://docs.python-guide.org/dev/virtualenvs/)
